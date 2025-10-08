@@ -116,8 +116,8 @@ python -m pytest tests/
 MIT License
 
 ## Contact
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-Project Link: [https://github.com/yourusername/snake_agent](https://github.com/yourusername/snake_agent)
+Your Name - shyamsundar
+Project Link:https://github.com/shyam20433
 
 ---
 *Last Updated: October 8, 2025*
